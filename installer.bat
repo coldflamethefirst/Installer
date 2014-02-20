@@ -1,4 +1,7 @@
-cd C:\Users\Struan
+cd C:\program files
 mkdir "installer"
-cd C:\Program Files\7-Zip
-7z x C:\Users\Struan\Desktop\installer\test1.zip oc-C:\Users\Struan\installer
+move C:\Users\%username%\Downloads\Installer\test.txt C:\program files\installer
+move C:\Users\%username%\Downloads\Installer\test.ico C:\program files\installer
+move C:\Users\%username%\Downloads\Installer\test.dll C:\program files\installer
+move C:\Users\%username%\Downloads\Installer\test.exe C:\program files\installer
+move C:\Users\%username%\Downloads\Installer\test.exe.ink C:\Users\%username%\Desktop
